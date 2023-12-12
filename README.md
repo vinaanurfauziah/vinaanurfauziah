@@ -1,5 +1,5 @@
 [![MasterHead](https://gifs.eco.br/wp-content/uploads/2022/06/gifs-de-anime-lofi-9.gif)](https://gifs.eco.br/wp-content/uploads/2022/06/gifs-de-anime-lofi-9.gif)
-<h1 align="center">Hi 👋, I'm Vina Nur Fauziah R</h1>
+<h1 align="center">︶꒦꒷ Hi, I'm Vina Nur Fauziah R ꒷꒦︶</h1>
 <h3 align="center">Web Development Enthusiast</h3>
 <!-- <p align="left">
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/70834e96-067e-42b9-8c26-8fe104d3fbaa/ddqfoeh-9331d13b-c37b-44ab-8281-d185a50e9b5e.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzcwODM0ZTk2LTA2N2UtNDJiOS04YzI2LThmZTEwNGQzZmJhYVwvZGRxZm9laC05MzMxZDEzYi1jMzdiLTQ0YWItODI4MS1kMTg1YTUwZTliNWUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.xAbPft5YAcLPOtEqmXjfBzxyKr0YREJgeO9WSnnQbeU" alt="Your alt text" width="400" align="right">
