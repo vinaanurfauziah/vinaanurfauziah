@@ -13,11 +13,11 @@
 
 - 📫 How to reach me **vinanurfauziahh@gmail.com**
 
-- ⚡ Fun fact **I think I have growth mindset**
+- ⚡ Fun fact **I think I have a growth mindset**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/iloaafyouuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iloaafyouuu" height="30" width="40" /></a>
+<a href="https://twitter.com/vinanurfzh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iloaafyouuu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vinanurfauziahr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinanurfauziahr" height="30" width="40" /></a>
 <a href="https://instagram.com/vinanurfzh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinanurfzh" height="30" width="40" /></a>
 <a href="https://dribbble.com/vinanurfauziah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="vinanurfauziah" height="30" width="40" /></a>
