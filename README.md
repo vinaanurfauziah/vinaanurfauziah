@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Tailwind CSS, React JS, Node JS**
 
-- 💬 Ask me about **HTML, CSS**
+- 💬 Ask me about **HTML, CSS, JavasScript**
 
 - 📫 How to reach me **vinanurfauziahh@gmail.com**
 
