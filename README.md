@@ -1,7 +1,7 @@
 [![MasterHead](https://gifs.eco.br/wp-content/uploads/2022/06/gifs-de-anime-lofi-9.gif)](https://gifs.eco.br/wp-content/uploads/2022/06/gifs-de-anime-lofi-9.gif)
 
 <h1 align="center">‧‧₊˚🎀✩ Hi, I'm Vina Nur Fauziah R  ₊˚🎧⊹♡</h1>
-<h3 align="center">Web Development Enthusiast</h3>
+<h3 align="center">React and Back-End Cohort at Dicoding Indonesia 2024</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=vinaanurfauziah&label=Profile%20views&color=0e75b6&style=flat" alt="vinaanurfauziah" /> 
@@ -12,14 +12,15 @@
 - 📫 How to reach me **vinanurfauziahh@gmail.com**
 - ⚡ Fun fact **I think I have a growth mindset**
 
-<h3 align="left">Connect with me:</h3>
+### 🤝🏻 &nbsp;Connect with Me
+
 <p align="left">
   <a href="https://linkedin.com/in/vinanurfauziahr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinanurfauziahr" height="30" width="40" /></a>
   <a href="https://instagram.com/vinanurfzh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinanurfzh" height="30" width="40" /></a>
   <a href="https://dribbble.com/vinanurfauziah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="vinanurfauziah" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+### 🛠 &nbsp;Tech Stack
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
@@ -62,11 +63,13 @@
   </a>&nbsp;&nbsp;&nbsp;
 </p>
 
-<p align="left">
-  <a href="https://github.com/vinaanurfauziah">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vinaanurfauziah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vinaanurfauziah&layout=compact&layout=compact&theme=algolia"/>
-  </a>
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vinaanurfauziah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vinaanurfauziah&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 
 <p align="left">
