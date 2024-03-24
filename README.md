@@ -7,11 +7,13 @@
   <img src="https://komarev.com/ghpvc/?username=vinaanurfauziah&label=Profile%20views&color=0e75b6&style=flat" alt="vinaanurfauziah" /> 
 </p>
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👩‍💻 &nbsp;About Me
 
 🎓 &nbsp;I'm currently studying **Informatics Engineering at the Pasundan University**.\
+👩‍🎓 &nbsp;Graduated from Vocational High School majoring in Software Engineering at SMKN 2 Bandung in 2018-2021\
 📫 &nbsp;You can shoot me an email at vinanurfauziahh@gmail.com!\
-🌱 &nbsp;I'm on track for learning more about **React.**
+🌱 &nbsp;I'm on track for learning more about **React.**\
+💼 &nbsp;I’m looking for **Part-Time** opportunities/roles.
 
 ### 🤝🏻 &nbsp;Connect with Me
 
