@@ -1,6 +1,6 @@
 [![MasterHead](https://gifs.eco.br/wp-content/uploads/2022/06/gifs-de-anime-lofi-9.gif)](https://gifs.eco.br/wp-content/uploads/2022/06/gifs-de-anime-lofi-9.gif)
 
-<h1 align="center">‧‧₊˚🎀✩ Hi, I'm Vina Nur Fauziah R  ₊˚🎧⊹♡</h1>
+<h1 align="center">‧₊˚✩ Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21">I'm Vina Nur Fauziah R  ₊˚⊹♡</h1>
 <h3 align="center">React and Back-End Cohort at Dicoding Indonesia 2024</h3>
 
 <p align="left"> 
