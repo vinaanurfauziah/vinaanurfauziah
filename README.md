@@ -74,8 +74,8 @@
 </a>
 </p>
 
-<p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinaanurfauziah&" alt="vinaanurfauziah" />
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinaanurfauziah&theme=algolia" alt="vinaanurfauziah" />
 </p>
 
 ![Vina Nur Fauziah R](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
