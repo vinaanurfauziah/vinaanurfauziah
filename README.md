@@ -9,10 +9,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🌱 &nbsp;I’m currently learning **Tailwind CSS, React JS, Node JS**\
-💬 &nbsp;Ask me about **HTML, CSS, JavaScript**\
-📫 &nbsp;How to reach me **vinanurfauziahh@gmail.com**\
-⚡ &nbsp;Fun fact **I think I have a growth mindset**\
+🎓 &nbsp;I'm currently studying **Informatics Engineering at the Pasundan University**.\
+📫 &nbsp;You can shoot me an email at vinanurfauziahh@gmail.com!\
+🌱 &nbsp;I'm on track for learning more about **React.**
 
 ### 🤝🏻 &nbsp;Connect with Me
 
