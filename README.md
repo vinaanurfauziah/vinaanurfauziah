@@ -7,17 +7,19 @@
   <img src="https://komarev.com/ghpvc/?username=vinaanurfauziah&label=Profile%20views&color=0e75b6&style=flat" alt="vinaanurfauziah" /> 
 </p>
 
-- 🌱 I’m currently learning **Tailwind CSS, React JS, Node JS**
-- 💬 Ask me about **HTML, CSS, JavaScript**
-- 📫 How to reach me **vinanurfauziahh@gmail.com**
-- ⚡ Fun fact **I think I have a growth mindset**
+### 👨🏻‍💻 &nbsp;About Me
+
+🌱 &nbsp;I’m currently learning **Tailwind CSS, React JS, Node JS**\
+💬 &nbsp;Ask me about **HTML, CSS, JavaScript**\
+📫 &nbsp;How to reach me **vinanurfauziahh@gmail.com**\
+⚡ &nbsp;Fun fact **I think I have a growth mindset**\
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/vinanurfauziahr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinanurfauziahr" height="30" width="40" /></a>
-  <a href="https://instagram.com/vinanurfzh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinanurfzh" height="30" width="40" /></a>
-  <a href="https://dribbble.com/vinanurfauziah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="vinanurfauziah" height="30" width="40" /></a>
+<p align="center">
+	<a href="https://github.com/vinaanurfauziah"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+	<a href="https://www.linkedin.com/in/vinanurfauziahr/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+	<a href="https://www.instagram.com/vinanurfzh/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
 </p>
 
 ### 🛠 &nbsp;Tech Stack
