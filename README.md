@@ -48,6 +48,10 @@
 </p>
 
 <p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinaanurfauziah&theme=algolia" alt="Vina Nur Fauziah" />
+</p>
+
+<p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinaanurfauziah&theme=algolia" alt="vinaanurfauziah" />
 </p>
 
