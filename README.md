@@ -13,7 +13,7 @@
 👩‍🎓 &nbsp;Graduated from Vocational High School majoring in Software Engineering at SMKN 2 Bandung in 2018-2021\
 📫 &nbsp;You can shoot me an email at vinanurfauziahh@gmail.com!\
 🌱 &nbsp;I'm on track for learning more about **React.**\
-💼 &nbsp;I’m looking for **Part-Time** opportunities/roles.
+💼 &nbsp;I’m looking for **Full-Time** opportunities/roles.
 
 ### 🤝🏻 &nbsp;Connect with Me
 
@@ -49,9 +49,5 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinaanurfauziah&theme=algolia" alt="Vina Nur Fauziah" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinaanurfauziah&theme=algolia" alt="vinaanurfauziah" />
 </p>
 
